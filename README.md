@@ -1,3 +1,4 @@
+[BMS.pdf](https://github.com/Muhammad-zain-rehman/Baby-Monitoring-system-BMS-/files/6642106/BMS.pdf)
 # Baby-Monitoring-system-BMS-
 Now a days both the parents need to work in order to balance the financial demands for their and look after their babies, so more workload and stress is there in such families, especially on female counterparts. In order to solve this problem, a Non-contact-based baby monitoring system using image processing for face detection can be developed which would help the parents to monitor their babies with the help of received data via email. Image processing is used to analyze and manipulate the images with the help of a computer. Also, real-time computer vision library is used in this system. Raspberry pi 3B+ module is used which is a full-fledged credit card sized computer. This module has a faster 64-bit, 1.4 GHz quad core processor and 1GB RAM
 
